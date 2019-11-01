@@ -13,6 +13,10 @@ torchvision
 torchtext
 torchaudio
 
+librosa
+mir_eval
+visdom
+
 # Others
 # PyHamcrest
 # bs4
